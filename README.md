@@ -5,7 +5,7 @@ Simulate ground water flow on a 1 acre farm, down to 1 meter deep. This takes gr
 
 If you are getting "java.lang.OutOfMemoryError: Java heap space" as an error when you try to run the program, try adding:
 
--Xms512M -Xmx1524M
+-Xmx2G
 
 to the VM Arguments
 

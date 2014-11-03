@@ -9,7 +9,4 @@ If you are getting "java.lang.OutOfMemoryError: Java heap space" as an error whe
 
 to the VM Arguments
 
--Xmx2G is a maximum heap size of 2 Gigabytes
-
-If that still doesn't work, you can try amping up the maximum heap size even more.
-Make sure you include units, though. If you don't put M or G, it will assume you are referring to bytes.
+-Xmx2G is a maximum heap size of 2 Gigabytes. If that still doesn't work, you can try amping up the maximum heap size even more. Make sure you include units, though. If you don't put M or G, it will assume you are referring to bytes.
